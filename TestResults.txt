@@ -1,0 +1,33 @@
+NUnit Adapter 4.2.0.0: Test execution started
+Running selected tests in /Users/gusingh/Projects/FizzBuzz.Tests/bin/Debug/net6.0/FizzBuzz.Tests.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.2.0.0: Test execution complete
+￼Success 'Test selection.Output_Of_1_To_100'
+
+
+NUnit Adapter 4.2.0.0: Test execution started
+Running selected tests in /Users/gusingh/Projects/FizzBuzz.Tests/bin/Debug/net6.0/FizzBuzz.Tests.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.2.0.0: Test execution complete
+￼Success 'Test selection.When_Multiple_Of_5_Expect_Buzz'
+
+
+NUnit Adapter 4.2.0.0: Test execution started
+Running selected tests in /Users/gusingh/Projects/FizzBuzz.Tests/bin/Debug/net6.0/FizzBuzz.Tests.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.2.0.0: Test execution complete
+￼Success 'Test selection.When_Multiple_Of_Both_3_And_5_Expect_FizzBuzz'
+
+
+NUnit Adapter 4.2.0.0: Test execution started
+Running selected tests in /Users/gusingh/Projects/FizzBuzz.Tests/bin/Debug/net6.0/FizzBuzz.Tests.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.2.0.0: Test execution complete
+￼Success 'Test selection.When_Mutiple_Of_3_Expect_Fizz'
+
+
+NUnit Adapter 4.2.0.0: Test execution started
+Running selected tests in /Users/gusingh/Projects/FizzBuzz.Tests/bin/Debug/net6.0/FizzBuzz.Tests.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 4.2.0.0: Test execution complete
+￼Success 'Test selection.When_Not_A_Multiple_Of_3_Or_5_Expect_Same_Number'
