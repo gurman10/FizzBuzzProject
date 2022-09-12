@@ -23,10 +23,10 @@ Note: The installation process is similar for MacOS. Make sure to choose appropr
 Instruction to run the FizzBuzz program and run the tests on Windows 10 using Visual Studio.
 
 1. Download the FizzBuzzProject folder on your computer.
-2. Navigate to the directory where the FizzBuzzProject is downloaded.
-3. Navigate to FizzBuzzProject > FIzzBuzz. Open "FizzBuzz.sln" file with Microsoft Visual Studio 2022.
+2. Navigate to the directory where the FizzBuzzProject-main is downloaded.
+3. Navigate to FizzBuzzProject-main > FizzBuzz. Open "FizzBuzz.sln" file with Microsoft Visual Studio 2022.
 4. To run the FizzBuzz program press "F5" key or click on Green button followed by "FizzBuzz" in the top middle. Console window will appear with the program output.
-5. To run the test on this program click on Test tab and choose "Run all Test". Test Explorer window will pop up with start the Build. Once the Build is complete click the first button under Test explorer in the top left corner.
+5. To run the test on this program click on Test tab and choose "Run all Test". Test Explorer window will pop up and start to Build. Once the Build is complete click the first button (Run All Tests In View) under Test explorer in the top left corner.
 6. The Explorer displays all the tests, the tests that passed are shown with the Green checkmark while failed tests if any will be displayed with a red cross.
 
 
